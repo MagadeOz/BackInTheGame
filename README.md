@@ -1,4 +1,4 @@
-# Globant BIG Latam Java Program
+# Globant: BIG Latam Java Program
 
 Nuestro proyecto fue realizar el API Rest de una automora basándonos en sus necesidades. 
 Sus entidades son los usuarios, tanto compradores como vendedores, los vehículos y las ventas. Para registrar una venta hacemos uso de las otras dos entidades.<br>
